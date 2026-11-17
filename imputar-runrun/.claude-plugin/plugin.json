@@ -1,0 +1,6 @@
+{
+  "name": "imputar-runrun",
+  "version": "0.1.1",
+  "author": { "name": "jmartin" },
+  "description": "Propone y carga las horas de la jornada en Runrun (reuniones, sesiones de Claude Code, issues) con unas reglas de jornada configurables."
+}

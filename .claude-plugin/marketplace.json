@@ -1,0 +1,12 @@
+{
+  "name": "runrun-tools",
+  "owner": { "name": "jmartin" },
+  "description": "Plugins de Claude Code.",
+  "plugins": [
+    {
+      "name": "imputar-runrun",
+      "source": "./imputar-runrun",
+      "description": "Propone y carga las horas de la jornada en Runrun segun la actividad real y unas reglas de jornada configurables."
+    }
+  ]
+}
